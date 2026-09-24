@@ -3,7 +3,9 @@
 ```markdown
 # English Auction Smart Contract
 
-A simplified, gas-efficient Solidity implementation of an **English Auction** (ascending-price open auction) for Ethereum smart contracts. Built as part of the *Build an Ethereum Smart Contract with Go and Solidity* course.
+A simplified, gas-efficient Solidity implementation of an **English Auction**
+(ascending-price open auction) for Ethereum smart contracts.
+Built as part of the *Build an Ethereum Smart Contract with Go and Solidity* course.
 
 ---
 
